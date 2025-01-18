@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Rebecca
 - 👀 I’m interested in software development.
-- 🌱 I recently finished my bachelor degree at Penn State University in Information Science and Technology. I look forward to continuing my education to complete a master degree in software engineering.
+- 🌱 Penn State University Graduate! 
 - 📫 How to reach me ...
+  - [I'm an inline-style link](www.linkedin.com/in/rebecca-e-reyes)
 
 <!---
 Belgert/Belgert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
